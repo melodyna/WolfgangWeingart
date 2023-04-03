@@ -21,7 +21,7 @@ const page2Y = page2.offsetTop + 100;
 
 arrowDown.addEventListener("click", (e)=> {
 	window.scrollTo({
-		top: page4.offsetTop - 100,
+		top: page2.offsetTop - 100,
 		left : 0,
 		behavior : "smooth",
 	})
