@@ -1,5 +1,5 @@
     @import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Courier+Prime:wght@400;700&display=swap');
-
+/* font */
     @font-face{
       font-family: NeueHaas;
       src: url(./font/NeueHaasDisplayBold.ttf);
@@ -251,6 +251,7 @@
       font-family: 'Courier Prime', Courier, monospace;
       font-weight: 500;
       letter-spacing: 1px;
+      padding-left: 25px;
     }
 
     #a-typo>div, #b-typo>div {
